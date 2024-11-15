@@ -1,1 +1,2 @@
-# AI_Text_Summarization_App
+This AI-powered text processing application, built using Streamlit, enables dynamic interaction where users input text prompts for real-time processing. It features a model selection option, allowing users to choose from various language models like GPT and LLAMA for specific text generation tasks. The interface is designed to be intuitive and user-friendly, facilitating ease of use even for those with minimal technical expertise. Users can see immediate results of their text manipulations, enhancing engagement and learning opportunities. The application supports diverse applications, from educational purposes in computational linguistics to aiding content creators and marketers in crafting narrative pieces.
+
